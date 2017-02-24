@@ -1,16 +1,8 @@
-.container {
-	position: relative;
-	margin: 0 auto;
-	background-color: goldenrod;
-	height: 80px;
-
-	}
-
-
-.box {
-	height: 50px;
-	text-align: left;
-	padding-top: 2em;
-
+img {
+	width: 100%;
 }
 
+.box {
+	border: 1px solid lightgrey;
+	margin: 20px;
+}
