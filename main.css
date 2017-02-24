@@ -1,4 +1,12 @@
 .container {
 	background-color: goldenrod;
-	padding-bottom: 2em;
+	height: 20px;
+	}
+
+
+.box {
+	height: 300px;
+	text-align: left;
+	padding-top: 2em;
 }
+
