@@ -30,7 +30,7 @@
 	content: ''
 }
 
-.box::after {
+.row::after {
 	clear: both;
 
 }
